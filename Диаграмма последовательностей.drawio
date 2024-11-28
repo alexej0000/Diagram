@@ -1,0 +1,131 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.3">
+  <diagram name="Страница — 1" id="_IVsBIt8aCaZtw_M675m">
+    <mxGraphModel dx="542" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-1" value="Гражданин" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=70;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="35" height="524" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-2" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-1">
+          <mxGeometry x="12.5" y="107" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-3" value="WEB_ресурс" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="301" y="20" width="150" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-4" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-3">
+          <mxGeometry x="70" y="159" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-5" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-3">
+          <mxGeometry x="70" y="315" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-6" value="Сервер_БД" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="593" y="20" width="150" height="524" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-7" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-6">
+          <mxGeometry x="70" y="211" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-8" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="880" y="20" width="150" height="524" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-9" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-8">
+          <mxGeometry x="70" y="263" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-10" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-8">
+          <mxGeometry x="70" y="367" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-11" value="Сотрудник" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="20" width="150" height="524" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-12" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-11">
+          <mxGeometry x="70" y="419" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-13" value="Подать обращение" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="mCaKX1DlY6IQvap0C6ZN-1" target="mCaKX1DlY6IQvap0C6ZN-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-14" value="Зарегистрировать обращение" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="mCaKX1DlY6IQvap0C6ZN-3" target="mCaKX1DlY6IQvap0C6ZN-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="531" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-15" value="Передать данные обращения" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="mCaKX1DlY6IQvap0C6ZN-6" target="mCaKX1DlY6IQvap0C6ZN-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-16" value="Отправить данные обращения" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="mCaKX1DlY6IQvap0C6ZN-8" target="mCaKX1DlY6IQvap0C6ZN-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="677" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-17" value="Отправить отчёт обращения" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="mCaKX1DlY6IQvap0C6ZN-3" target="mCaKX1DlY6IQvap0C6ZN-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="247" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-18" value="Назначить исполнителя" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="mCaKX1DlY6IQvap0C6ZN-8" target="mCaKX1DlY6IQvap0C6ZN-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1089" y="387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-19" value="Рассмотреть обращение" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="mCaKX1DlY6IQvap0C6ZN-11" target="mCaKX1DlY6IQvap0C6ZN-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1092" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-39" value="Гражданин" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=70;" vertex="1" parent="1">
+          <mxGeometry x="20" y="544" width="35" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-40" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-39">
+          <mxGeometry x="12.5" y="107" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-41" value="WEB_ресурс" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="301" y="530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-42" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-41">
+          <mxGeometry x="70" y="159" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-43" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-41">
+          <mxGeometry x="70" y="315" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-44" value="Сервер_БД" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="593" y="530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-45" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-44">
+          <mxGeometry x="70" y="211" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-46" value="Система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="880" y="520" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-47" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-46">
+          <mxGeometry x="70" y="263" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-48" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-46">
+          <mxGeometry x="70" y="367" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-49" value="Сотрудник" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="520" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="mCaKX1DlY6IQvap0C6ZN-50" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="mCaKX1DlY6IQvap0C6ZN-49">
+          <mxGeometry x="70" y="419" width="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,9 +1,92 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.3">
   <diagram name="Страница — 1" id="5tGJQVNln_lVgyciQ8qS">
-    <mxGraphModel>
+    <mxGraphModel dx="1372" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jt64O5aEok49vwzfKThR-1" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="110" y="20" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-2" value="Новое_обращение" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="41" y="107" width="152" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-3" value="Регистрация" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="62" y="233" width="108" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-4" value="Классификация" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="50" y="358" width="132" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-5" value="Назначение" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="65" y="466" width="103" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-6" value="Отправка_уведомления" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="21" y="592" width="191" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-7" value="Принятие_уведомления" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="20" y="700" width="193" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-8" value="Обработка" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="69" y="808" width="95" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-9" value="Отправка_результата" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="29" y="916" width="175" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-10" value="Завершение" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="63" y="1024" width="107" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-11" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1109" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-12" value="Подача обращения" style="curved=1;startArrow=none;;exitX=0.47;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Jt64O5aEok49vwzfKThR-1" target="Jt64O5aEok49vwzfKThR-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-13" value="Зарегистрировать обращение" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Jt64O5aEok49vwzfKThR-2" target="Jt64O5aEok49vwzfKThR-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-14" value="Классифицировать обращение" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Jt64O5aEok49vwzfKThR-3" target="Jt64O5aEok49vwzfKThR-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-15" value="Назначить исполнителя" style="curved=1;startArrow=none;;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Jt64O5aEok49vwzfKThR-4" target="Jt64O5aEok49vwzfKThR-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-16" value="Отправка уведомления о назначении" style="curved=1;startArrow=none;;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Jt64O5aEok49vwzfKThR-5" target="Jt64O5aEok49vwzfKThR-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-17" value="Получение уведомления" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Jt64O5aEok49vwzfKThR-6" target="Jt64O5aEok49vwzfKThR-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-18" value="Рассмотреть обращение" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Jt64O5aEok49vwzfKThR-7" target="Jt64O5aEok49vwzfKThR-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-19" value="Отправка результата" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Jt64O5aEok49vwzfKThR-8" target="Jt64O5aEok49vwzfKThR-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-20" value="Завершить обращение" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Jt64O5aEok49vwzfKThR-9" target="Jt64O5aEok49vwzfKThR-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jt64O5aEok49vwzfKThR-21" value="" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.47;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Jt64O5aEok49vwzfKThR-10" target="Jt64O5aEok49vwzfKThR-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

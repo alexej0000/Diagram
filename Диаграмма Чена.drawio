@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Страница — 1" id="c9riuxBmko2yBIIqOIz3">
-        <mxGraphModel dx="1404" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="641" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -144,13 +144,13 @@
                         <mxPoint x="679" y="503" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Ff3JbneCZzg7QOqK37aa-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.633;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ff3JbneCZzg7QOqK37aa-42" edge="1" target="Ff3JbneCZzg7QOqK37aa-3">
+                <mxCell id="Ff3JbneCZzg7QOqK37aa-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.633;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ff3JbneCZzg7QOqK37aa-42" target="Ff3JbneCZzg7QOqK37aa-3" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="650" y="435" as="sourcePoint"/>
                         <mxPoint x="695" y="463" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Ff3JbneCZzg7QOqK37aa-45" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ff3JbneCZzg7QOqK37aa-3" target="Ff3JbneCZzg7QOqK37aa-41" edge="1">
+                <mxCell id="Ff3JbneCZzg7QOqK37aa-45" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ff3JbneCZzg7QOqK37aa-3" target="Ff3JbneCZzg7QOqK37aa-41" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="740" y="465" as="sourcePoint"/>
                         <mxPoint x="860" y="455" as="targetPoint"/>

@@ -136,7 +136,7 @@
                     <mxGeometry x="770" y="430" width="100" height="55" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ff3JbneCZzg7QOqK37aa-42" value="Адрес" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-                    <mxGeometry x="495" y="370" width="85" height="45" as="geometry"/>
+                    <mxGeometry x="607.5" y="360" width="85" height="45" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ff3JbneCZzg7QOqK37aa-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.017;exitY=0.388;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="Ff3JbneCZzg7QOqK37aa-40" target="Ff3JbneCZzg7QOqK37aa-3" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">

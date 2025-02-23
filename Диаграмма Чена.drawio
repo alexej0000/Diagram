@@ -159,13 +159,13 @@
                 <mxCell id="Ff3JbneCZzg7QOqK37aa-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="357.5" y="680" width="30" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="Ff3JbneCZzg7QOqK37aa-56" value="Сторона доставки" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                <mxCell id="Ff3JbneCZzg7QOqK37aa-56" value="Сведения о доставке" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="410" y="790" width="80" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Ff3JbneCZzg7QOqK37aa-57" value="Сторона перевозки" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                <mxCell id="Ff3JbneCZzg7QOqK37aa-57" value="Сторона оплаты" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="510" y="820" width="87.5" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Ff3JbneCZzg7QOqK37aa-58" value="Сведения об оплате" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                <mxCell id="Ff3JbneCZzg7QOqK37aa-58" value="Количество груза" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="700" y="795" width="90" height="65" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ff3JbneCZzg7QOqK37aa-59" value="Дата доставки" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -289,6 +289,24 @@
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="250" y="250" as="sourcePoint"/>
                         <mxPoint x="190" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="Наименование груза" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="580" width="92.5" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.941;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.071;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ff3JbneCZzg7QOqK37aa-4" target="4">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="668" y="705" as="sourcePoint"/>
+                        <mxPoint x="670" y="640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="Ценность груза" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="840" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ff3JbneCZzg7QOqK37aa-4" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="638" y="765" as="sourcePoint"/>
+                        <mxPoint x="584" y="833" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>

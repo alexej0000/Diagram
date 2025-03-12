@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="2">
     <diagram id="R2lEEEUBdFMjLlhIrx00" name="Нотация Мартина(рус)">
-        <mxGraphModel dx="2248" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+        <mxGraphModel dx="1756" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -172,7 +172,7 @@
                         <mxRectangle width="30" height="20" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="_-zl-2oJZyUdkN1pDTBB-292" value="Управляют" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=-0.006;exitY=0.803;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.006;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_-zl-2oJZyUdkN1pDTBB-159" target="_-zl-2oJZyUdkN1pDTBB-146" edge="1">
+                <mxCell id="_-zl-2oJZyUdkN1pDTBB-292" value="Управляется" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=-0.006;exitY=0.803;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.006;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_-zl-2oJZyUdkN1pDTBB-159" target="_-zl-2oJZyUdkN1pDTBB-146" edge="1">
                     <mxGeometry x="0.0042" relative="1" as="geometry">
                         <Array as="points"/>
                         <mxPoint x="285" y="240" as="targetPoint"/>
@@ -783,7 +783,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="x33rZfkkpKEyOw2-yjb6" name="Нотация Мартина(англ)">
-        <mxGraphModel dx="2225" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1733" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -955,7 +955,7 @@
                         <mxRectangle width="30" height="20" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="hy6ZjehZYxH6wc-VUd_K-39" value="Drive" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=-0.006;exitY=0.803;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.006;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hy6ZjehZYxH6wc-VUd_K-27" target="hy6ZjehZYxH6wc-VUd_K-10" edge="1">
+                <mxCell id="hy6ZjehZYxH6wc-VUd_K-39" value="Controlles" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=-0.006;exitY=0.803;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.006;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hy6ZjehZYxH6wc-VUd_K-27" target="hy6ZjehZYxH6wc-VUd_K-10" edge="1">
                     <mxGeometry x="0.0042" relative="1" as="geometry">
                         <Array as="points"/>
                         <mxPoint x="285" y="240" as="targetPoint"/>
